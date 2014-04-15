@@ -1,0 +1,4 @@
+aumentar duracion Desarrollo manual de usuario
+Agregar tarea Programacion y Documentacion como primer punto de la etapa de desarrollo e implementacion
+Aumentar duracion Relevamiento Detallado
+En etapas posteriores separar la actividad de Realizar Programacion en la etapa de Desarrollo por "Realizar Programacion del modulo A", "Realizar Programacion del modulo B", . . ., "Realizar Programacion del modulo n"
